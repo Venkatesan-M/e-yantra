@@ -1,0 +1,33 @@
+[0.044s] Invoking command in '/home/venkatesan/e-yantra/lb_ws/build/tf2_msgs': /usr/bin/cmake /home/venkatesan/e-yantra/lb_ws/src/geometry2/tf2_msgs -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/venkatesan/e-yantra/lb_ws/install/tf2_msgs
+[0.156s] -- The C compiler identification is GNU 11.4.0
+[0.266s] -- The CXX compiler identification is GNU 11.4.0
+[0.280s] -- Detecting C compiler ABI info
+[0.406s] -- Detecting C compiler ABI info - done
+[0.422s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.423s] -- Detecting C compile features
+[0.424s] -- Detecting C compile features - done
+[0.431s] -- Detecting CXX compiler ABI info
+[0.573s] -- Detecting CXX compiler ABI info - done
+[0.590s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.591s] -- Detecting CXX compile features
+[0.592s] -- Detecting CXX compile features - done
+[0.628s] [31mCMake Error at CMakeLists.txt:4 (find_package):
+[0.628s]   By not providing "Findcatkin.cmake" in CMAKE_MODULE_PATH this project has
+[0.628s]   asked CMake to find a package configuration file provided by "catkin", but
+[0.628s]   CMake did not find one.
+[0.628s] 
+[0.628s]   Could not find a package configuration file provided by "catkin" with any
+[0.628s]   of the following names:
+[0.629s] 
+[0.629s]     catkinConfig.cmake
+[0.629s]     catkin-config.cmake
+[0.629s] 
+[0.629s]   Add the installation prefix of "catkin" to CMAKE_PREFIX_PATH or set
+[0.629s]   "catkin_DIR" to a directory containing one of the above files.  If "catkin"
+[0.629s]   provides a separate development package or SDK, be sure it has been
+[0.629s]   installed.
+[0.629s] 
+[0.630s] [0m
+[0.630s] -- Configuring incomplete, errors occurred!
+[0.630s] See also "/home/venkatesan/e-yantra/lb_ws/build/tf2_msgs/CMakeFiles/CMakeOutput.log".
+[0.633s] Invoked command in '/home/venkatesan/e-yantra/lb_ws/build/tf2_msgs' returned '1': /usr/bin/cmake /home/venkatesan/e-yantra/lb_ws/src/geometry2/tf2_msgs -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/venkatesan/e-yantra/lb_ws/install/tf2_msgs

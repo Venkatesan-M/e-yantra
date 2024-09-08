@@ -1,0 +1,70 @@
+[0.029s] Invoking command in '/home/venkatesan/e-yantra/lb_ws/build/ebot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/venkatesan/e-yantra/turtle_ws/install/turtlesim_spiral:/home/venkatesan/ros2_ws/install/launch_testing_examples:/home/venkatesan/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_service:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_publisher:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_client:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_action_server:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_action_client:/home/venkatesan/ros2_ws/install/examples_rclpy_guard_conditions:/home/venkatesan/ros2_ws/install/examples_rclpy_executors:/home/venkatesan/Skills/robotics/ros2/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/venkatesan/e-yantra/lb_ws/src/ebot_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/venkatesan/e-yantra/lb_ws/install/ebot_description
+[0.056s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.324s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.341s] -- Found rclcpp: 16.0.10 (/opt/ros/humble/share/rclcpp/cmake)
+[0.397s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.402s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.413s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.434s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.460s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.524s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.528s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.739s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.838s] -- Found rclpy: 3.3.14 (/opt/ros/humble/share/rclpy/cmake)
+[0.838s] -- Found urdf: 2.6.1 (/opt/ros/humble/share/urdf/cmake)
+[0.882s] -- Found xacro: 2.0.8 (/opt/ros/humble/share/xacro/cmake)
+[0.882s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.037s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.043s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.044s] -- Added test 'lint_cmake' to check CMake code style
+[1.044s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.047s] -- Added test 'xmllint' to check XML markup files
+[1.049s] -- Configuring done
+[1.055s] -- Generating done
+[1.058s] -- Build files have been written to: /home/venkatesan/e-yantra/lb_ws/build/ebot_description
+[1.072s] Invoked command in '/home/venkatesan/e-yantra/lb_ws/build/ebot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/venkatesan/e-yantra/turtle_ws/install/turtlesim_spiral:/home/venkatesan/ros2_ws/install/launch_testing_examples:/home/venkatesan/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_service:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_publisher:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_client:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_action_server:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_action_client:/home/venkatesan/ros2_ws/install/examples_rclpy_guard_conditions:/home/venkatesan/ros2_ws/install/examples_rclpy_executors:/home/venkatesan/Skills/robotics/ros2/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/venkatesan/e-yantra/lb_ws/src/ebot_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/venkatesan/e-yantra/lb_ws/install/ebot_description
+[1.074s] Invoking command in '/home/venkatesan/e-yantra/lb_ws/build/ebot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/venkatesan/e-yantra/turtle_ws/install/turtlesim_spiral:/home/venkatesan/ros2_ws/install/launch_testing_examples:/home/venkatesan/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_service:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_publisher:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_client:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_action_server:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_action_client:/home/venkatesan/ros2_ws/install/examples_rclpy_guard_conditions:/home/venkatesan/ros2_ws/install/examples_rclpy_executors:/home/venkatesan/Skills/robotics/ros2/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/venkatesan/e-yantra/lb_ws/build/ebot_description -- -j8 -l8
+[1.146s] Invoked command in '/home/venkatesan/e-yantra/lb_ws/build/ebot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/venkatesan/e-yantra/turtle_ws/install/turtlesim_spiral:/home/venkatesan/ros2_ws/install/launch_testing_examples:/home/venkatesan/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_service:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_publisher:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_client:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_action_server:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_action_client:/home/venkatesan/ros2_ws/install/examples_rclpy_guard_conditions:/home/venkatesan/ros2_ws/install/examples_rclpy_executors:/home/venkatesan/Skills/robotics/ros2/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/venkatesan/e-yantra/lb_ws/build/ebot_description -- -j8 -l8
+[1.186s] Invoking command in '/home/venkatesan/e-yantra/lb_ws/build/ebot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/venkatesan/e-yantra/turtle_ws/install/turtlesim_spiral:/home/venkatesan/ros2_ws/install/launch_testing_examples:/home/venkatesan/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_service:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_publisher:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_client:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_action_server:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_action_client:/home/venkatesan/ros2_ws/install/examples_rclpy_guard_conditions:/home/venkatesan/ros2_ws/install/examples_rclpy_executors:/home/venkatesan/Skills/robotics/ros2/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/venkatesan/e-yantra/lb_ws/build/ebot_description
+[1.198s] -- Install configuration: ""
+[1.198s] -- Execute custom install script
+[1.199s] -- Symlinking: /home/venkatesan/e-yantra/lb_ws/install/ebot_description/share/ebot_description//launch/ebot_gazebo_launch.py
+[1.215s] -- Symlinking: /home/venkatesan/e-yantra/lb_ws/install/ebot_description/share/ebot_description//launch/spawn_robot.py
+[1.230s] -- Symlinking: /home/venkatesan/e-yantra/lb_ws/install/ebot_description/share/ebot_description//launch/start_world_launch.py
+[1.246s] -- Symlinking: /home/venkatesan/e-yantra/lb_ws/install/ebot_description/share/ebot_description//worlds/empty.world
+[1.261s] -- Symlinking: /home/venkatesan/e-yantra/lb_ws/install/ebot_description/share/ebot_description//models/ebot/ebot.gazebo
+[1.276s] -- Symlinking: /home/venkatesan/e-yantra/lb_ws/install/ebot_description/share/ebot_description//models/ebot/ebot_description.xacro
+[1.291s] -- Symlinking: /home/venkatesan/e-yantra/lb_ws/install/ebot_description/share/ebot_description//meshes/FUS1.STL
+[1.306s] -- Symlinking: /home/venkatesan/e-yantra/lb_ws/install/ebot_description/share/ebot_description//meshes/FUS2.STL
+[1.321s] -- Symlinking: /home/venkatesan/e-yantra/lb_ws/install/ebot_description/share/ebot_description//meshes/FUS3.STL
+[1.336s] -- Symlinking: /home/venkatesan/e-yantra/lb_ws/install/ebot_description/share/ebot_description//meshes/FUS4.STL
+[1.351s] -- Symlinking: /home/venkatesan/e-yantra/lb_ws/install/ebot_description/share/ebot_description//meshes/FWL.STL
+[1.365s] -- Symlinking: /home/venkatesan/e-yantra/lb_ws/install/ebot_description/share/ebot_description//meshes/FWR.STL
+[1.380s] -- Symlinking: /home/venkatesan/e-yantra/lb_ws/install/ebot_description/share/ebot_description//meshes/LHUS10.STL
+[1.395s] -- Symlinking: /home/venkatesan/e-yantra/lb_ws/install/ebot_description/share/ebot_description//meshes/LHUS9.STL
+[1.409s] -- Symlinking: /home/venkatesan/e-yantra/lb_ws/install/ebot_description/share/ebot_description//meshes/RHUS7.STL
+[1.425s] -- Symlinking: /home/venkatesan/e-yantra/lb_ws/install/ebot_description/share/ebot_description//meshes/RHUS9.STL
+[1.442s] -- Symlinking: /home/venkatesan/e-yantra/lb_ws/install/ebot_description/share/ebot_description//meshes/RUS5.STL
+[1.457s] -- Symlinking: /home/venkatesan/e-yantra/lb_ws/install/ebot_description/share/ebot_description//meshes/RUS6.STL
+[1.471s] -- Symlinking: /home/venkatesan/e-yantra/lb_ws/install/ebot_description/share/ebot_description//meshes/RWL.STL
+[1.486s] -- Symlinking: /home/venkatesan/e-yantra/lb_ws/install/ebot_description/share/ebot_description//meshes/RWR.STL
+[1.501s] -- Symlinking: /home/venkatesan/e-yantra/lb_ws/install/ebot_description/share/ebot_description//meshes/chassis.dae
+[1.523s] -- Symlinking: /home/venkatesan/e-yantra/lb_ws/install/ebot_description/share/ebot_description//meshes/robot_base.stl
+[1.539s] -- Symlinking: /home/venkatesan/e-yantra/lb_ws/install/ebot_description/share/ebot_description//plugins/libgazebo_collision_sensor.so
+[1.555s] -- Symlinking: /home/venkatesan/e-yantra/lb_ws/install/ebot_description/share/ebot_description//plugins/libgazebo_ros_vacuum_gripper.so
+[1.570s] -- Symlinking: /home/venkatesan/e-yantra/lb_ws/install/ebot_description/share/ament_index/resource_index/package_run_dependencies/ebot_description
+[1.586s] -- Symlinking: /home/venkatesan/e-yantra/lb_ws/install/ebot_description/share/ament_index/resource_index/parent_prefix_path/ebot_description
+[1.602s] -- Symlinking: /home/venkatesan/e-yantra/lb_ws/install/ebot_description/share/ebot_description/environment/ament_prefix_path.sh
+[1.618s] -- Symlinking: /home/venkatesan/e-yantra/lb_ws/install/ebot_description/share/ebot_description/environment/ament_prefix_path.dsv
+[1.636s] -- Symlinking: /home/venkatesan/e-yantra/lb_ws/install/ebot_description/share/ebot_description/environment/path.sh
+[1.653s] -- Symlinking: /home/venkatesan/e-yantra/lb_ws/install/ebot_description/share/ebot_description/environment/path.dsv
+[1.667s] -- Symlinking: /home/venkatesan/e-yantra/lb_ws/install/ebot_description/share/ebot_description/local_setup.bash
+[1.682s] -- Symlinking: /home/venkatesan/e-yantra/lb_ws/install/ebot_description/share/ebot_description/local_setup.sh
+[1.696s] -- Symlinking: /home/venkatesan/e-yantra/lb_ws/install/ebot_description/share/ebot_description/local_setup.zsh
+[1.711s] -- Symlinking: /home/venkatesan/e-yantra/lb_ws/install/ebot_description/share/ebot_description/local_setup.dsv
+[1.726s] -- Symlinking: /home/venkatesan/e-yantra/lb_ws/install/ebot_description/share/ebot_description/package.dsv
+[1.741s] -- Symlinking: /home/venkatesan/e-yantra/lb_ws/install/ebot_description/share/ament_index/resource_index/packages/ebot_description
+[1.757s] -- Symlinking: /home/venkatesan/e-yantra/lb_ws/install/ebot_description/share/ebot_description/cmake/ebot_descriptionConfig.cmake
+[1.771s] -- Symlinking: /home/venkatesan/e-yantra/lb_ws/install/ebot_description/share/ebot_description/cmake/ebot_descriptionConfig-version.cmake
+[1.786s] -- Symlinking: /home/venkatesan/e-yantra/lb_ws/install/ebot_description/share/ebot_description/package.xml
+[1.804s] Invoked command in '/home/venkatesan/e-yantra/lb_ws/build/ebot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/venkatesan/e-yantra/turtle_ws/install/turtlesim_spiral:/home/venkatesan/ros2_ws/install/launch_testing_examples:/home/venkatesan/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_service:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_publisher:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_client:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_action_server:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_action_client:/home/venkatesan/ros2_ws/install/examples_rclpy_guard_conditions:/home/venkatesan/ros2_ws/install/examples_rclpy_executors:/home/venkatesan/Skills/robotics/ros2/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/venkatesan/e-yantra/lb_ws/build/ebot_description

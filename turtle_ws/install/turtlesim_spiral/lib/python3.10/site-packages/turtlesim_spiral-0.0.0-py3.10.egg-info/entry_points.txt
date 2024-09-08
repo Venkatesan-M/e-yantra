@@ -1,0 +1,3 @@
+[console_scripts]
+spiral_turtle = turtlesim_spiral.spiral_turtle:main
+

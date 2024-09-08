@@ -1,0 +1,24 @@
+[0.028s] Invoking command in '/home/venkatesan/e-yantra/lb_ws/build/eyantra_warehouse': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/venkatesan/e-yantra/turtle_ws/install/turtlesim_spiral:/home/venkatesan/ros2_ws/install/launch_testing_examples:/home/venkatesan/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_service:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_publisher:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_client:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_action_server:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_action_client:/home/venkatesan/ros2_ws/install/examples_rclpy_guard_conditions:/home/venkatesan/ros2_ws/install/examples_rclpy_executors:/home/venkatesan/Skills/robotics/ros2/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/venkatesan/e-yantra/lb_ws/src/eyantra_warehouse -DCMAKE_INSTALL_PREFIX=/home/venkatesan/e-yantra/lb_ws/install/eyantra_warehouse
+[0.130s] -- The C compiler identification is GNU 11.4.0
+[0.238s] -- The CXX compiler identification is GNU 11.4.0
+[0.256s] -- Detecting C compiler ABI info
+[0.379s] -- Detecting C compiler ABI info - done
+[0.394s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.394s] -- Detecting C compile features
+[0.395s] -- Detecting C compile features - done
+[0.401s] -- Detecting CXX compiler ABI info
+[0.544s] -- Detecting CXX compiler ABI info - done
+[0.573s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.573s] -- Detecting CXX compile features
+[0.575s] -- Detecting CXX compile features - done
+[0.591s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.958s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.205s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.400s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.486s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.495s] -- Added test 'lint_cmake' to check CMake code style
+[1.501s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.535s] -- Added test 'xmllint' to check XML markup files
+[1.538s] -- Configuring done
+[1.543s] -- Generating done
+[1.544s] -- Build files have been written to: /home/venkatesan/e-yantra/lb_ws/build/eyantra_warehouse

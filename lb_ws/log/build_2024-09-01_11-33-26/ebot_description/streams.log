@@ -1,0 +1,43 @@
+[0.033s] Invoking command in '/home/venkatesan/e-yantra/lb_ws/build/ebot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/venkatesan/e-yantra/turtle_ws/install/turtlesim_spiral:/home/venkatesan/ros2_ws/install/launch_testing_examples:/home/venkatesan/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_service:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_publisher:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_client:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_action_server:/home/venkatesan/ros2_ws/install/examples_rclpy_minimal_action_client:/home/venkatesan/ros2_ws/install/examples_rclpy_guard_conditions:/home/venkatesan/ros2_ws/install/examples_rclpy_executors:/home/venkatesan/Skills/robotics/ros2/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/venkatesan/e-yantra/lb_ws/src/ebot_description -DCMAKE_INSTALL_PREFIX=/home/venkatesan/e-yantra/lb_ws/install/ebot_description
+[0.134s] -- The C compiler identification is GNU 11.4.0
+[0.242s] -- The CXX compiler identification is GNU 11.4.0
+[0.259s] -- Detecting C compiler ABI info
+[0.386s] -- Detecting C compiler ABI info - done
+[0.401s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.402s] -- Detecting C compile features
+[0.403s] -- Detecting C compile features - done
+[0.408s] -- Detecting CXX compiler ABI info
+[0.554s] -- Detecting CXX compiler ABI info - done
+[0.582s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.583s] -- Detecting CXX compile features
+[0.584s] -- Detecting CXX compile features - done
+[0.602s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.970s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.216s] -- Found rclcpp: 16.0.10 (/opt/ros/humble/share/rclcpp/cmake)
+[1.336s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.351s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.373s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.411s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.454s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.572s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.583s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.754s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.810s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.896s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.924s] -- Looking for pthread.h
+[2.046s] -- Looking for pthread.h - found
+[2.046s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[2.224s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[2.229s] -- Found Threads: TRUE  
+[2.419s] -- Found rclpy: 3.3.14 (/opt/ros/humble/share/rclpy/cmake)
+[2.431s] -- Found urdf: 2.6.0 (/opt/ros/humble/share/urdf/cmake)
+[2.543s] -- Found xacro: 2.0.8 (/opt/ros/humble/share/xacro/cmake)
+[2.550s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.766s] -- Added test 'copyright' to check source files copyright and LICENSE
+[2.774s] -- Added test 'flake8' to check Python code syntax and style conventions
+[2.776s] -- Added test 'lint_cmake' to check CMake code style
+[2.777s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[2.780s] -- Added test 'xmllint' to check XML markup files
+[2.783s] -- Configuring done
+[2.790s] -- Generating done
+[2.792s] -- Build files have been written to: /home/venkatesan/e-yantra/lb_ws/build/ebot_description

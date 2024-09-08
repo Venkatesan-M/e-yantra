@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/turtlesim_spiral/turtlesim_spiral.egg-info/PKG-INFO
+writing dependency_links to ../../build/turtlesim_spiral/turtlesim_spiral.egg-info/dependency_links.txt
+writing entry points to ../../build/turtlesim_spiral/turtlesim_spiral.egg-info/entry_points.txt
+writing requirements to ../../build/turtlesim_spiral/turtlesim_spiral.egg-info/requires.txt
+writing top-level names to ../../build/turtlesim_spiral/turtlesim_spiral.egg-info/top_level.txt
+reading manifest file '../../build/turtlesim_spiral/turtlesim_spiral.egg-info/SOURCES.txt'
+writing manifest file '../../build/turtlesim_spiral/turtlesim_spiral.egg-info/SOURCES.txt'
+running build
+running build_py
+copying turtlesim_spiral/spiral_turtle.py -> /home/venkatesan/e-yantra/turtle_ws/build/turtlesim_spiral/build/lib/turtlesim_spiral
+running install
+running install_lib
+copying /home/venkatesan/e-yantra/turtle_ws/build/turtlesim_spiral/build/lib/turtlesim_spiral/spiral_turtle.py -> /home/venkatesan/e-yantra/turtle_ws/install/turtlesim_spiral/lib/python3.10/site-packages/turtlesim_spiral
+byte-compiling /home/venkatesan/e-yantra/turtle_ws/install/turtlesim_spiral/lib/python3.10/site-packages/turtlesim_spiral/spiral_turtle.py to spiral_turtle.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/venkatesan/e-yantra/turtle_ws/install/turtlesim_spiral/lib/python3.10/site-packages/turtlesim_spiral-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/turtlesim_spiral/turtlesim_spiral.egg-info to /home/venkatesan/e-yantra/turtle_ws/install/turtlesim_spiral/lib/python3.10/site-packages/turtlesim_spiral-0.0.0-py3.10.egg-info
+running install_scripts
+Installing spiral_turtle script to /home/venkatesan/e-yantra/turtle_ws/install/turtlesim_spiral/lib/turtlesim_spiral
+writing list of installed files to '/home/venkatesan/e-yantra/turtle_ws/build/turtlesim_spiral/install.log'

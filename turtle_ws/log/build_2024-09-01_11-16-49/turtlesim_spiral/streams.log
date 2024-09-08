@@ -1,0 +1,24 @@
+[1.555s] Invoking command in '/home/venkatesan/e-yantra/turtle_ws/src/turtlesim_spiral': PYTHONPATH=/home/venkatesan/e-yantra/turtle_ws/build/turtlesim_spiral/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/venkatesan/e-yantra/turtle_ws/install/turtlesim_spiral/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/turtlesim_spiral build --build-base /home/venkatesan/e-yantra/turtle_ws/build/turtlesim_spiral/build install --record /home/venkatesan/e-yantra/turtle_ws/build/turtlesim_spiral/install.log --single-version-externally-managed install_data
+[2.213s] running egg_info
+[2.214s] writing ../../build/turtlesim_spiral/turtlesim_spiral.egg-info/PKG-INFO
+[2.214s] writing dependency_links to ../../build/turtlesim_spiral/turtlesim_spiral.egg-info/dependency_links.txt
+[2.214s] writing entry points to ../../build/turtlesim_spiral/turtlesim_spiral.egg-info/entry_points.txt
+[2.215s] writing requirements to ../../build/turtlesim_spiral/turtlesim_spiral.egg-info/requires.txt
+[2.215s] writing top-level names to ../../build/turtlesim_spiral/turtlesim_spiral.egg-info/top_level.txt
+[2.218s] reading manifest file '../../build/turtlesim_spiral/turtlesim_spiral.egg-info/SOURCES.txt'
+[2.220s] writing manifest file '../../build/turtlesim_spiral/turtlesim_spiral.egg-info/SOURCES.txt'
+[2.220s] running build
+[2.220s] running build_py
+[2.220s] copying turtlesim_spiral/spiral_turtle.py -> /home/venkatesan/e-yantra/turtle_ws/build/turtlesim_spiral/build/lib/turtlesim_spiral
+[2.220s] running install
+[2.221s] running install_lib
+[2.222s] copying /home/venkatesan/e-yantra/turtle_ws/build/turtlesim_spiral/build/lib/turtlesim_spiral/spiral_turtle.py -> /home/venkatesan/e-yantra/turtle_ws/install/turtlesim_spiral/lib/python3.10/site-packages/turtlesim_spiral
+[2.224s] byte-compiling /home/venkatesan/e-yantra/turtle_ws/install/turtlesim_spiral/lib/python3.10/site-packages/turtlesim_spiral/spiral_turtle.py to spiral_turtle.cpython-310.pyc
+[2.224s] running install_data
+[2.225s] running install_egg_info
+[2.228s] removing '/home/venkatesan/e-yantra/turtle_ws/install/turtlesim_spiral/lib/python3.10/site-packages/turtlesim_spiral-0.0.0-py3.10.egg-info' (and everything under it)
+[2.229s] Copying ../../build/turtlesim_spiral/turtlesim_spiral.egg-info to /home/venkatesan/e-yantra/turtle_ws/install/turtlesim_spiral/lib/python3.10/site-packages/turtlesim_spiral-0.0.0-py3.10.egg-info
+[2.230s] running install_scripts
+[2.278s] Installing spiral_turtle script to /home/venkatesan/e-yantra/turtle_ws/install/turtlesim_spiral/lib/turtlesim_spiral
+[2.278s] writing list of installed files to '/home/venkatesan/e-yantra/turtle_ws/build/turtlesim_spiral/install.log'
+[2.340s] Invoked command in '/home/venkatesan/e-yantra/turtle_ws/src/turtlesim_spiral' returned '0': PYTHONPATH=/home/venkatesan/e-yantra/turtle_ws/build/turtlesim_spiral/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/venkatesan/e-yantra/turtle_ws/install/turtlesim_spiral/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/turtlesim_spiral build --build-base /home/venkatesan/e-yantra/turtle_ws/build/turtlesim_spiral/build install --record /home/venkatesan/e-yantra/turtle_ws/build/turtlesim_spiral/install.log --single-version-externally-managed install_data
